@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 export default function Home() {
   const backgroundImage = 'url("images/background.jpg")';
   const backgroundStyle = {
@@ -69,6 +70,7 @@ export default function Home() {
           Travel around the globe with us <br/> and trust the best! We are proud recipients<br/>  of the 'Best Travel Agency' award <br/> for three consecutive years
           </div>
           <button style={buttonStyle}>Book Trip</button>
+        
         </div>
       </div>
     
