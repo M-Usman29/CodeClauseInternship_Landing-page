@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from './Footer';
+
 export default function Home() {
   const backgroundImage = 'url("images/background.jpg")';
   const backgroundStyle = {
@@ -7,8 +7,8 @@ export default function Home() {
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
-    height: '100vh', // Set the height of the component to full viewport height
-    position: 'relative', // Add position:relative to make absolute positioning work
+    height: '100vh', 
+    position: 'relative',
   };
   const mainTextStyle = {
     position: 'absolute',
@@ -18,34 +18,33 @@ export default function Home() {
     fontFamily: 'cursive',
     fontSize: '26px',
     fontWeight: 'bold',
-    textAlign: 'left', // Align the text to the left
-    // Add any other text styles you want
+    textAlign: 'left', 
   };
 
   const logoStyle = {
-    width: '60px', // Set the width of the logo image
-    marginRight: '10px', // Adjust the value to set the space between the logo and text
-    verticalAlign: 'middle', // Align the logo vertically with the text
-    display: 'inline-block', // Allow the logo and text to be on the same line
+    width: '60px', 
+    marginRight: '10px', 
+    verticalAlign: 'middle', 
+    display: 'inline-block', 
   };
 
   const subTextStyle = {
     position: 'absolute',
-    top: '50%', // Move the text to the center vertically
+    top: '50%',
     left: '20px',
-    transform: 'translateY(-50%)', // Move the text up by half of its own height
+    transform: 'translateY(-50%)',
     color: 'white',
     fontFamily: 'cursive',
     fontSize: '20px',
     fontWeight: '20px',
-    textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', // Add a text shadow for the shiny effect
-    textAlign: 'left', // Align the text to the left
-    // Add any other text styles you want
+    textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', 
+    textAlign: 'left', 
+    
   };
 
   const buttonStyle = {
     position: 'absolute',
-    bottom: '100px', // Adjust the value to set the distance between the button and the bottom
+    bottom: '100px',
     left: '120px',
     background: 'transparent',
     color: 'white',
@@ -55,7 +54,7 @@ export default function Home() {
     fontSize: '20px',
     fontWeight: 'bold',
     cursor: 'pointer',
-    // Add any other button styles you want
+    
   };
 
   return (
