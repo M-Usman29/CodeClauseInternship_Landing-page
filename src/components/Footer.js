@@ -2,6 +2,10 @@ import React from 'react';
 
 export default function Footer() {
   const footerStyle = {
+    position: 'fixed',
+    bottom: 0,
+    left: 0,
+    width: '100%',
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
@@ -10,6 +14,7 @@ export default function Footer() {
     padding: '10px 0',
     fontSize: '18px',
     fontWeight: 'bold',
+    textAlign: 'center', // Center the text horizontally
   };
 
   return (

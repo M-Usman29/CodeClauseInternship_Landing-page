@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Footer from './Footer';
 export default function Home() {
   const backgroundImage = 'url("images/background.jpg")';
   const backgroundStyle = {
@@ -45,7 +45,7 @@ export default function Home() {
 
   const buttonStyle = {
     position: 'absolute',
-    bottom: '20px', // Adjust the value to set the distance between the button and the bottom
+    bottom: '100px', // Adjust the value to set the distance between the button and the bottom
     left: '120px',
     background: 'transparent',
     color: 'white',
@@ -67,11 +67,12 @@ export default function Home() {
             Explore with Usman
           </div>
           <div style={{ ...subTextStyle, top: '50%', fontSize: '26px', textShadow: 'none' }}>
-            Travel Around the Globe with us!
+          Travel around the globe with us <br/> and trust the best! We are proud recipients<br/>  of the 'Best Travel Agency' award <br/> for three consecutive years
           </div>
           <button style={buttonStyle}>Book Trip</button>
         </div>
       </div>
+    
       
     </>
   );
