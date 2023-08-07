@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+![Capture1](https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/8a8c96c9-f255-4f45-910a-53dd49892e0a)
+
+![Capture2](https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/8c94e48d-7cda-4bae-8018-c78af0b4de77)
+![Capture3](https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/e6adeaea-42a6-4f5b-839f-6ca8e2723a4e)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
