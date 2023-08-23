@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+Project: Landing Page Developed using React js
+
+Project Video:
+https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/5510d671-afa6-478d-a6a5-46885a545b56
+
+Project Images:
+
+
 ![Capture1](https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/8a8c96c9-f255-4f45-910a-53dd49892e0a)
 
 ![Capture2](https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/8c94e48d-7cda-4bae-8018-c78af0b4de77)
