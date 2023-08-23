@@ -1,7 +1,10 @@
 Project: Landing Page Developed using React js
 
-Project Video:
-https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/5510d671-afa6-478d-a6a5-46885a545b56
+Project Video: 
+
+https://github.com/M-Usman29/CodeClauseInternship_Landing-page/assets/125122553/03ac15cf-5467-4193-855c-c8a56b7726c3
+
+
 
 Project Images:
 
